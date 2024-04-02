@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.478f71a1.css",
+    "main.js": "/static/js/main.a1d67f35.js",
+    "static/js/453.3132cfcb.chunk.js": "/static/js/453.3132cfcb.chunk.js",
+    "static/media/logo.png": "/static/media/logo.47f96a737734c7b53877.png",
+    "static/media/hirabazar.jpg": "/static/media/hirabazar.5cf011899a03ebe975cc.jpg",
+    "static/media/harley.jpg": "/static/media/harley.3b0da430d53de72b61ef.jpg",
+    "static/media/agnomy.jpg": "/static/media/agnomy.15c34c22595e4e2fc558.jpg",
+    "static/media/services.jpg": "/static/media/services.15c34c22595e4e2fc558.jpg",
+    "static/media/exceed.jpg": "/static/media/exceed.bb51642170f31c945fe8.jpg",
+    "static/media/gofresh.jpg": "/static/media/gofresh.08fdee47919751560d50.jpg",
+    "static/media/technologyImg.webp": "/static/media/technologyImg.577792d9c55bce875eb3.webp",
+    "static/media/instalog.jpg": "/static/media/instalog.b133ff2fd409381162aa.jpg",
+    "static/media/heroImg.svg": "/static/media/heroImg.f27f82ed591e2a572177e5c3fc8f42ae.svg",
+    "static/media/Vision.webp": "/static/media/Vision.4239eeea454ca0c9a5e3.webp",
+    "static/media/Mission.webp": "/static/media/Mission.2b7274c20181b0c91303.webp",
+    "static/media/maleIcon.png": "/static/media/maleIcon.14ad2c8347adba7683c8.png",
+    "static/media/Blue.webp": "/static/media/Blue.f2ec3b9fd8e78846325c.webp",
+    "index.html": "/index.html",
+    "main.478f71a1.css.map": "/static/css/main.478f71a1.css.map",
+    "main.a1d67f35.js.map": "/static/js/main.a1d67f35.js.map",
+    "453.3132cfcb.chunk.js.map": "/static/js/453.3132cfcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.478f71a1.css",
+    "static/js/main.a1d67f35.js"
+  ]
+}
